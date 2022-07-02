@@ -37,6 +37,12 @@ module.exports = {
           800: '#2d3748',
           900: '#1a202c',
         },
+        retro: {
+          black: '#161616',
+          green: '#346751',
+          orange: '#C84B31',
+          tan: '#ECDBBA',
+        },
       },
       lineHeight: {
         hero: '4.5rem',

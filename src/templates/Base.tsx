@@ -1,17 +1,15 @@
-import { Meta } from '../layout/Meta';
-import { AppConfig } from '../utils/AppConfig';
-import { Banner } from './Banner';
-import { Footer } from './Footer';
+import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
 import { Hero } from './Hero';
 import { VerticalFeatures } from './VerticalFeatures';
 
 const Base = () => (
-  <div className="antialiased text-gray-600">
-    <Meta title={AppConfig.title} description={AppConfig.description} />
+  <div className="antialiased text-retro-black">
+    {/* <Meta title={AppConfig.title} description={AppConfig.description} /> */}
+    <NavbarTwoColumns logo={'Test'} children={'Test'} />
     <Hero />
     <VerticalFeatures />
-    <Banner />
-    <Footer />
+    {/* <Banner /> */}
+    {/* <Footer /> */}
   </div>
 );
 

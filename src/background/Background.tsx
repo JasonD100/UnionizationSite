@@ -1,5 +1,6 @@
 import { ReactNode } from 'react';
 
+
 type IBackgroundProps = {
   children: ReactNode;
   color: string;
