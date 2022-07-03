@@ -7,7 +7,7 @@
 Run the following command on your local environment:
 
 ```
-git clone --depth=1 https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template.git my-project-name
+git clone --depth=1 https://github.com/JasonD100/UnionizationSite.git my-project-name
 cd my-project-name
 npm install
 ```
