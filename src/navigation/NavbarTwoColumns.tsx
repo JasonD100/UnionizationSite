@@ -4,7 +4,7 @@ import { Background } from '../background/Background';
 import { Button } from '../button/Button';
 
 const NavbarTwoColumns = () => (
-  <Background color="bg-retro-green">
+  <Background color="bg-retro-black">
     <div className="flex flex-wrap justify-between items-center">
       <div>
         {/*        <BrowserRouter>
@@ -18,6 +18,11 @@ const NavbarTwoColumns = () => (
         <Link href="/">
           <a>
             <Button xl>Home</Button>
+          </a>
+        </Link>
+        <Link href="/Profits">
+          <a>
+            <Button xl>Profits</Button>
           </a>
         </Link>
         <Link href="/History">

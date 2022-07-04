@@ -32,7 +32,7 @@ const Button = (props: IButtonProps) => {
           }
 
           .btn-primary {
-            @apply text-white bg-retro-green;
+            @apply text-white bg-retro-black;
           }
 
           .btn-primary:hover {

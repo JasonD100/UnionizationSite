@@ -38,10 +38,10 @@ module.exports = {
           900: '#1a202c',
         },
         retro: {
-          black: '#161616',
-          green: '#346751',
-          orange: '#C84B31',
-          tan: '#ECDBBA',
+          black: '#222831',
+          green: '#393E46',
+          orange: '#00ADB5',
+          tan: '#EEEEEE',
         },
       },
       lineHeight: {

@@ -3,7 +3,7 @@ import { VerticalFeatureRow } from '../feature/VerticalFeatureRow';
 import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
-  <Background color="bg-retro-green">
+  <Background color="bg-retro-black">
     <Section
       title="Better Pay, Vacation, Law"
       description="Unionizing can offer you more monthly take home pay and a better quality of life with a lighter schedule. Who doesn't like more pay and less hours?"
