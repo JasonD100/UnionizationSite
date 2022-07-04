@@ -1,19 +1,9 @@
-import { ReactNode } from 'react';
-
 import Link from 'next/link';
 
 import { Background } from '../background/Background';
 import { Button } from '../button/Button';
 
-type INavbarProps = {
-  logo: ReactNode;
-  logo1: ReactNode;
-  logo2: ReactNode;
-  logo3: ReactNode;
-  children: ReactNode;
-};
-
-const NavbarTwoColumns = (props: INavbarProps) => (
+const NavbarTwoColumns = () => (
   <Background color="bg-retro-green">
     <div className="flex flex-wrap justify-between items-center">
       <div>
@@ -27,31 +17,25 @@ const NavbarTwoColumns = (props: INavbarProps) => (
 </BrowserRouter> */}
         <Link href="/History">
           <a>
-            <Button xl>{props.logo}</Button>
+            <Button xl>History</Button>
           </a>
         </Link>
         <Link href="/Retirement">
           <a>
-            <Button xl>{props.logo1}</Button>
+            <Button xl>Retirement</Button>
           </a>
         </Link>
         <Link href="/FormAUnion">
           <a>
-            <Button xl>{props.logo2}</Button>
+            <Button xl>Form a Union</Button>
           </a>
         </Link>
         <Link href="/ContactAUnionOrganizer">
           <a>
-            <Button xl>{props.logo3}</Button>
+            <Button xl>Contact a Union Organizer</Button>
           </a>
         </Link>
       </div>
-
-      <nav>
-        <ul className="navbar flex items-center font-medium text-xl text-retro-tan">
-          {props.children}
-        </ul>
-      </nav>
 
       <style jsx>
         {`
