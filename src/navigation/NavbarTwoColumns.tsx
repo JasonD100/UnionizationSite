@@ -15,6 +15,11 @@ const NavbarTwoColumns = () => (
             </Route>
           </Switch>
 </BrowserRouter> */}
+        <Link href="/">
+          <a>
+            <Button xl>Home</Button>
+          </a>
+        </Link>
         <Link href="/History">
           <a>
             <Button xl>History</Button>

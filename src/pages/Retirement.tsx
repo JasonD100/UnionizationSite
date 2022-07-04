@@ -4,6 +4,7 @@ import { Background } from '../background/Background';
 import { Button } from '../button/Button';
 import { HeroOneButton } from '../hero/HeroOneButton';
 import { Section } from '../layout/Section';
+import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
 
 const Retirement = () => (
   <Background color="bg-retro-tan">
@@ -22,7 +23,7 @@ const Retirement = () => (
       </NavbarTwoColumns>
     </Section>
 */}
-
+    <NavbarTwoColumns />
     <Section yPadding="pt-20 pb-32">
       <HeroOneButton
         title={
