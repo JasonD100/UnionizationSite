@@ -6,10 +6,10 @@ const Base = () => (
   <div className="antialiased text-retro-black">
     {/* <Meta title={AppConfig.title} description={AppConfig.description} /> */}
     <NavbarTwoColumns
-      logo={'Join'}
-      logo1={'Info'}
-      logo2={'Money'}
-      logo3={'PogU'}
+      logo={'History'}
+      logo1={'Retirement'}
+      logo2={'Form a Union'}
+      logo3={'Contact a Union Organizer'}
     />
     <Hero />
     <VerticalFeatures />

@@ -17,22 +17,30 @@ const NavbarTwoColumns = (props: INavbarProps) => (
   <Background color="bg-retro-green">
     <div className="flex flex-wrap justify-between items-center">
       <div>
-        <Link href="/">
+        {/*        <BrowserRouter>
+          <Switch>
+            <Route path="/">
+              <History />
+              <Button xl>{props.logo}</Button>
+            </Route>
+          </Switch>
+</BrowserRouter> */}
+        <Link href="/History">
           <a>
             <Button xl>{props.logo}</Button>
           </a>
         </Link>
-        <Link href="/">
+        <Link href="/Retirement">
           <a>
             <Button xl>{props.logo1}</Button>
           </a>
         </Link>
-        <Link href="/">
+        <Link href="/FormAUnion">
           <a>
             <Button xl>{props.logo2}</Button>
           </a>
         </Link>
-        <Link href="/">
+        <Link href="/ContactAUnionOrganizer">
           <a>
             <Button xl>{props.logo3}</Button>
           </a>

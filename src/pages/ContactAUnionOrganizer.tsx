@@ -5,7 +5,7 @@ import { Button } from '../button/Button';
 import { HeroOneButton } from '../hero/HeroOneButton';
 import { Section } from '../layout/Section';
 
-const Hero = () => (
+const ContactAUnionOrganizer = () => (
   <Background color="bg-retro-tan">
     {/*    <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
@@ -27,13 +27,15 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            <span className="text-retro-black">{'The Unionization\n'}</span>
-            <span className="text-retro-black">Walmart Employees</span>
+            <span className="text-retro-black">
+              {'This is a ContactAUnionOrganizer page\n'}
+            </span>
+            <span className="text-retro-black">This is a different page</span>
           </>
         }
-        description="There are currenty 0 Walmart Unions"
+        description="This is a different page"
         button={
-          <Link href="/Join">
+          <Link href="https://aflcio.org/formaunion/collective-voice#:~:text=Union%20members%20earn%20better%20wages,69%25%20of%20nonunion%20workers%20do.">
             <a>
               <Button xl>How do I join?</Button>
             </a>
@@ -44,4 +46,4 @@ const Hero = () => (
   </Background>
 );
 
-export { Hero };
+export default ContactAUnionOrganizer;
