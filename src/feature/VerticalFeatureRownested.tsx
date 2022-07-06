@@ -28,7 +28,7 @@ const VerticalFeatureRownested = (props: IVerticalFeatureRowProps) => {
         <h3 className="text-3xl text-retro-black font-semibold">
           {props.title}
         </h3>
-        <div className="mt-6 text-retro-black leading-9">
+        <div className="text-2xl mt-6 text-retro-black leading-9">
           {props.description}
         </div>
       </div>

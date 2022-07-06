@@ -1,0 +1,477 @@
+"?column?","state","worker","percentile_cont"
+"070422","AK","Deli Associate",12.5
+"070422","AL","Baker",9.47
+"070422","AL","Bakery Assistant",11.65
+"070422","AL","Bakery Clerk",15.96
+"070422","AL","Bakery Manager",8
+"070422","AL","Cake Decorator",9.83
+"070422","AL","Deli Associate",12.64
+"070422","AL","Deli Manager",25000
+"070422","AL","Food Manager",33500
+"070422","AL","Food Preparation Worker",9.65
+"070422","AL","Food Service Associate",10.61
+"070422","AL","Host/Cashier",11.43
+"070422","AL","Host/Hostess",11.3
+"070422","AL","Server",12.83
+"070422","AR","Baker",10.5
+"070422","AR","Bakery Assistant",24390
+"070422","AR","Bakery Clerk",20000
+"070422","AR","Bakery Manager",32000
+"070422","AR","Cake Decorator",22871
+"070422","AR","Catering Assistant",10
+"070422","AR","Cook",14
+"070422","AR","Cook/Server",14
+"070422","AR","Deli Associate",27000
+"070422","AR","Director of Food and Beverage",79382
+"070422","AR","Floor Manager",17
+"070422","AR","Food and Beverage Manager",18.44
+"070422","AR","Food Service Associate",11.68
+"070422","AR","Host/Cashier",9.64
+"070422","AR","Host/Hostess",11.5
+"070422","AZ","Baker",11.3
+"070422","AZ","Bakery Assistant",16.41
+"070422","AZ","Bakery Clerk",20445
+"070422","AZ","Cake Decorator",14.39
+"070422","AZ","Deli Associate",10.96
+"070422","AZ","Deli Manager",15
+"070422","AZ","Fast Food Attendant",11
+"070422","AZ","Floor Manager",27000
+"070422","AZ","Food Manager",12
+"070422","AZ","Food Service Associate",12.67
+"070422","AZ","General Assistant",20
+"070422","AZ","Host/Cashier",11.46
+"070422","AZ","Host/Hostess",14.75
+"070422","AZ","Night Team Member",11.98
+"070422","AZ","Produce Clerk",23000
+"070422","CA","Back of House Team Member",11
+"070422","CA","Baker",9.34
+"070422","CA","Bakery Assistant",13.93
+"070422","CA","Bakery Clerk",11.85
+"070422","CA","Bakery Manager",30000
+"070422","CA","Cake Decorator",13.35
+"070422","CA","Cook/Dishwasher",17
+"070422","CA","Deli Associate",12.65
+"070422","CA","Dishwasher",18.5
+"070422","CA","Floor Manager",90000
+"070422","CA","Food Manager",14
+"070422","CA","Food Service Associate",12.1
+"070422","CA","Food Service Worker",13.5
+"070422","CA","Front of House Team Member",15
+"070422","CA","Host/Cashier",12.71
+"070422","CO","Baker",12.9
+"070422","CO","Bakery Assistant",13.81
+"070422","CO","Bakery Manager",15.3
+"070422","CO","Cake Decorator",13.26
+"070422","CO","Deli Associate",13.09
+"070422","CO","Food Service Associate",16.43
+"070422","CO","Host/Cashier",12.5
+"070422","CO","Host/Hostess",10
+"070422","CO","Night Manager",18.74
+"070422","CO","Produce Clerk",20000
+"070422","CT","Bakery Assistant",14.29
+"070422","CT","Cake Decorator",19.78
+"070422","CT","Deli Associate",13.64
+"070422","CT","Food Manager",12.5
+"070422","CT","Host/Cashier",13.01
+"070422","CT","Host/Hostess",14.18
+"070422","DC","Deli Associate",13
+"070422","DC","Host/Hostess",20000
+"070422","DE","Bakery Assistant",11
+"070422","DE","Deli Associate",18000
+"070422","DE","Host/Hostess",11.96
+"070422","FL","Baker",10.27
+"070422","FL","Bakery Assistant",15.93
+"070422","FL","Bakery Clerk",12.1
+"070422","FL","Bakery Manager",15.52
+"070422","FL","Cake Decorator",13.35
+"070422","FL","Cook",9.02
+"070422","FL","Deli Associate",12.61
+"070422","FL","Floor Manager",9
+"070422","FL","Food Service Worker",19.9
+"070422","FL","Host/Cashier",11.84
+"070422","FL","Host/Hostess",12.42
+"070422","FL","Night Manager",15.35
+"070422","FL","Produce Clerk",10.72
+"070422","FL","Server",10
+"070422","FL","Team Trainer",11.75
+"070422","GA","Baker",10.38
+"070422","GA","Bakery Assistant",12
+"070422","GA","Bakery Clerk",12.7
+"070422","GA","Bakery Manager",32404
+"070422","GA","Cake Decorator",17.89
+"070422","GA","Cook",22000
+"070422","GA","Deli Associate",13.16
+"070422","GA","Deli Manager",12.56
+"070422","GA","Food Manager",64244
+"070422","GA","Food Service Associate",28800
+"070422","GA","Host/Cashier",10.43
+"070422","GA","Host/Hostess",12.55
+"070422","HI","Night Manager",30000
+"070422","IA","Baker",9
+"070422","IA","Bakery Assistant",10.5
+"070422","IA","Cake Decorator",12.54
+"070422","IA","Chef",5000
+"070422","IA","Deli Associate",13.6
+"070422","IA","Food Manager",64244
+"070422","IA","Host/Cashier",11.16
+"070422","IA","Host/Hostess",12.06
+"070422","ID","Baker",11.5
+"070422","ID","Bakery Assistant",11.27
+"070422","ID","Bakery Clerk",12.1
+"070422","ID","Cake Decorator",16
+"070422","ID","Deli Associate",10.99
+"070422","ID","Food Service Worker",15
+"070422","ID","Host/Cashier",9.95
+"070422","ID","Host/Hostess",11
+"070422","IL","Baker",14.64
+"070422","IL","Bakery Assistant",15.05
+"070422","IL","Bakery Manager",15
+"070422","IL","Cake Decorator",13.88
+"070422","IL","Cook",11.5
+"070422","IL","Deli Associate",14.36
+"070422","IL","Deli Manager",30000
+"070422","IL","Food Service Associate",12.04
+"070422","IL","General Assistant",20.98
+"070422","IL","Host/Cashier",11.25
+"070422","IL","Host/Hostess",12.17
+"070422","IL","Night Manager",30756
+"070422","IN","Baker",10
+"070422","IN","Bakery Assistant",14.64
+"070422","IN","Bakery Manager",15.92
+"070422","IN","Cake Decorator",11.27
+"070422","IN","Deli Associate",13.89
+"070422","IN","Food Manager",15
+"070422","IN","Food Service Associate",11.66
+"070422","IN","Front of House Team Member",12.24
+"070422","IN","Host/Cashier",11.28
+"070422","IN","Host/Hostess",13.13
+"070422","IN","Night Team Member",15.5
+"070422","IN","Produce Clerk",11
+"070422","KS","Baker",12.73
+"070422","KS","Bakery Assistant",13.54
+"070422","KS","Cake Decorator",12.43
+"070422","KS","Carry Out",11
+"070422","KS","Deli Associate",11.71
+"070422","KS","Deli Manager",15
+"070422","KS","Front of House Team Member",12
+"070422","KS","Host/Cashier",12.47
+"070422","KS","Host/Hostess",11.75
+"070422","KS","Night Team Member",21000
+"070422","KS","Produce Clerk",11.25
+"070422","KY","Baker",16.43
+"070422","KY","Bakery Assistant",15.6
+"070422","KY","Bakery Clerk",10.5
+"070422","KY","Bakery Manager",30000
+"070422","KY","Cake Decorator",12.74
+"070422","KY","Deli Associate",14.56
+"070422","KY","Host/Cashier",12.67
+"070422","KY","Host/Hostess",12.31
+"070422","KY","Team Captain",20000
+"070422","LA","Baker",11.34
+"070422","LA","Bakery Assistant",12.12
+"070422","LA","Bakery Clerk",11
+"070422","LA","Butcher",11.5
+"070422","LA","Cake Decorator",10.75
+"070422","LA","Deli Associate",12.41
+"070422","LA","Fast Food Attendant",8.49
+"070422","LA","Food Manager",40000
+"070422","LA","Food Service Associate",12.1
+"070422","LA","Host/Cashier",11.49
+"070422","LA","Host/Hostess",11.29
+"070422","LA","Line Cook/Prep Cook",12.67
+"070422","MA","Baker",19.34
+"070422","MA","Bakery Assistant",16.94
+"070422","MA","Cake Decorator",15
+"070422","MA","Deli Associate",14.32
+"070422","MA","Food Service Associate",16
+"070422","MA","Host/Cashier",13.47
+"070422","MA","Host/Hostess",13.68
+"070422","MA","Team Captain",11.31
+"070422","MD","Bakery Assistant",14.54
+"070422","MD","Bakery Clerk",12.7
+"070422","MD","Cake Decorator",11.9
+"070422","MD","Deli Associate",11.74
+"070422","MD","Food Manager",15.96
+"070422","MD","Food Service Worker",11
+"070422","MD","Host/Cashier",11.25
+"070422","MD","Host/Hostess",10.8
+"070422","MD","Produce Clerk",10.9
+"070422","ME","Baker",11.5
+"070422","ME","Bakery Assistant",16.36
+"070422","ME","Cake Decorator",12.05
+"070422","ME","Deli Associate",13.77
+"070422","ME","Food Service Associate",13.42
+"070422","ME","Host/Cashier",12.16
+"070422","ME","Host/Hostess",13.41
+"070422","ME","Night Team Member",10.25
+"070422","MI","Baker",19.97
+"070422","MI","Bakery Assistant",15.29
+"070422","MI","Bakery Manager",15.65
+"070422","MI","Cake Decorator",13.17
+"070422","MI","Deli Associate",18.12
+"070422","MI","Deli Manager",12.39
+"070422","MI","Food Manager",15
+"070422","MI","Food Service Associate",13.51
+"070422","MI","Food Service Worker",12.14
+"070422","MI","Front of House Manager",27000
+"070422","MI","Host/Cashier",12.34
+"070422","MI","Host/Hostess",13.01
+"070422","MI","Night Team Member",15.98
+"070422","MI","Produce Clerk",11.4
+"070422","MI","Sandwich Maker",9.75
+"070422","MN","Baker",20.56
+"070422","MN","Bakery Assistant",16.48
+"070422","MN","Cake Decorator",16.55
+"070422","MN","Deli Associate",11.91
+"070422","MN","Food Service Associate",15.75
+"070422","MN","Host/Cashier",12.72
+"070422","MN","Host/Hostess",12.42
+"070422","MN","Produce Clerk",30000
+"070422","MO","Baker",13.42
+"070422","MO","Bakery Assistant",14.64
+"070422","MO","Cake Decorator",17.3
+"070422","MO","Cook/Server",14
+"070422","MO","Deli Associate",11.78
+"070422","MO","Deli Manager",10
+"070422","MO","Floor Manager",65000
+"070422","MO","Food Manager",13.86
+"070422","MO","Food Service Associate",11.49
+"070422","MO","Host/Cashier",11.97
+"070422","MO","Host/Hostess",10.94
+"070422","MO","Produce Clerk",10
+"070422","MS","Bakery Assistant",9.5
+"070422","MS","Cake Decorator",11.92
+"070422","MS","Cook",24000
+"070422","MS","Deli Associate",11.29
+"070422","MS","Grill Cook",100000
+"070422","MS","Host/Cashier",11.11
+"070422","MS","Host/Hostess",10.95
+"070422","MS","Server/Cashier",9.25
+"070422","MT","Cake Decorator",11
+"070422","MT","Deli Associate",8.45
+"070422","MT","Food Service Associate",11.49
+"070422","MT","Host/Cashier",11
+"070422","MT","Host/Hostess",13.46
+"070422","NC","Baker",16.88
+"070422","NC","Bakery Assistant",15.45
+"070422","NC","Bakery Clerk",11
+"070422","NC","Bakery Manager",21910
+"070422","NC","Cake Decorator",15.09
+"070422","NC","Cook",15000
+"070422","NC","Deli Associate",15.14
+"070422","NC","Dishwasher",9.12
+"070422","NC","Floor Manager",52000
+"070422","NC","Food Manager",20000
+"070422","NC","Food Service Associate",11.63
+"070422","NC","Food Service Worker",11
+"070422","NC","Front of House Team Member",13.64
+"070422","NC","Host/Cashier",11.19
+"070422","NC","Host/Hostess",12.55
+"070422","ND","Bakery Clerk",12.5
+"070422","ND","Deli Associate",14
+"070422","NE","Bakery Assistant",12.28
+"070422","NE","Cake Decorator",17.44
+"070422","NE","Deli Associate",13.85
+"070422","NE","Host/Cashier",11.73
+"070422","NE","Host/Hostess",12.17
+"070422","NE","Server",32000
+"070422","NH","Baker",12.2
+"070422","NH","Bakery Assistant",17.36
+"070422","NH","Cake Decorator",12.13
+"070422","NH","Deli Associate",13.74
+"070422","NH","Food Manager",15.95
+"070422","NH","Food Service Associate",13.6
+"070422","NH","Front of House Team Member",13
+"070422","NH","Host/Cashier",12.9
+"070422","NH","Host/Hostess",13.57
+"070422","NJ","Bakery Clerk",13
+"070422","NJ","Cake Decorator",16.81
+"070422","NJ","Deli Associate",11.04
+"070422","NJ","Food Manager",12.75
+"070422","NJ","Food Service Associate",12.69
+"070422","NJ","Front of House Team Member",15
+"070422","NJ","Host/Cashier",12.48
+"070422","NJ","Host/Hostess",11.77
+"070422","NM","Baker",11
+"070422","NM","Bakery Assistant",10.61
+"070422","NM","Bakery Clerk",22000
+"070422","NM","Cake Decorator",9.75
+"070422","NM","Cook",8.5
+"070422","NM","Deli Associate",10.56
+"070422","NM","Food Service Worker",15.5
+"070422","NM","Host/Cashier",11.2
+"070422","NM","Host/Hostess",20000
+"070422","NV","Bakery Assistant",10
+"070422","NV","Cake Decorator",10.68
+"070422","NV","Deli Associate",11.5
+"070422","NV","Food Manager",48500
+"070422","NV","Food Service Worker",19.9
+"070422","NV","Host/Cashier",12.1
+"070422","NV","Host/Hostess",13.03
+"070422","NV","Night Team Member",22000
+"070422","NY","Back of House Team Member",11.75
+"070422","NY","Baker",13.81
+"070422","NY","Bakery Assistant",12.99
+"070422","NY","Bakery Manager",17.5
+"070422","NY","Barista",18.33
+"070422","NY","Cake Decorator",14.9
+"070422","NY","Deli Associate",14.85
+"070422","NY","Deli Manager",12.67
+"070422","NY","Food Service Worker",80
+"070422","NY","Fryer",20000
+"070422","NY","Host/Cashier",13.02
+"070422","NY","Host/Hostess",15.38
+"070422","NY","Line Cook",9.75
+"070422","NY","Night Team Member",14.5
+"070422","NY","Produce Clerk",26000
+"070422","OH","Baker",10.15
+"070422","OH","Bakery Assistant",14.43
+"070422","OH","Cake Decorator",13.4
+"070422","OH","Chef",19.3
+"070422","OH","Cook",10.5
+"070422","OH","Deli Associate",13.61
+"070422","OH","Food Manager",55960
+"070422","OH","Food Runner",50000
+"070422","OH","Food Service Associate",11.92
+"070422","OH","Front of House Team Member",11
+"070422","OH","General Assistant",23.23
+"070422","OH","Host/Cashier",11.69
+"070422","OH","Host/Hostess",13.13
+"070422","OH","Night Manager",19.12
+"070422","OK","Baker",10.39
+"070422","OK","Bakery Assistant",11.91
+"070422","OK","Bakery Clerk",12
+"070422","OK","Bakery Manager",10
+"070422","OK","Cake Decorator",12.43
+"070422","OK","Cook",10.5
+"070422","OK","Deli Associate",12.92
+"070422","OK","Food Manager",30000
+"070422","OK","Food Service Associate",17680
+"070422","OK","Food Service Worker",20000
+"070422","OK","Host/Cashier",11.23
+"070422","OK","Host/Hostess",11
+"070422","OK","Night Manager",35000
+"070422","OK","Produce Clerk",13
+"070422","OR","Baker",11
+"070422","OR","Bakery Assistant",14.95
+"070422","OR","Cake Decorator",27387
+"070422","OR","Deli Associate",10.24
+"070422","OR","Food Service Associate",16.34
+"070422","OR","Host/Cashier",12.07
+"070422","OR","Host/Hostess",13.33
+"070422","OR","Produce Clerk",15
+"070422","PA","Baker",17
+"070422","PA","Bakery Assistant",15.38
+"070422","PA","Bakery Manager",9.1
+"070422","PA","Cake Decorator",13.17
+"070422","PA","Deli Associate",13.29
+"070422","PA","Floor Manager",63000
+"070422","PA","Food Service Associate",15.49
+"070422","PA","Food Service Worker",19.9
+"070422","PA","Host/Cashier",12.48
+"070422","PA","Host/Hostess",11.42
+"070422","PA","Produce Clerk",9
+"070422","PA","Team Trainer",11.96
+"070422","RI","Baker",15000
+"070422","RI","Bakery Assistant",15.26
+"070422","RI","Deli Associate",8.65
+"070422","RI","Food Service Associate",15.29
+"070422","RI","Host/Cashier",10.25
+"070422","RI","Host/Hostess",14
+"070422","RI","Server",16
+"070422","SC","Baker",12.43
+"070422","SC","Bakery Assistant",13.55
+"070422","SC","Bakery Clerk",16.31
+"070422","SC","Cake Decorator",11.33
+"070422","SC","Deli Associate",12.83
+"070422","SC","Food Service Associate",11.13
+"070422","SC","Food Service Worker",11.96
+"070422","SC","Host/Cashier",11.07
+"070422","SC","Host/Hostess",11.27
+"070422","SC","Produce Clerk",10.58
+"070422","SD","Baker",11.85
+"070422","SD","Bakery Assistant",14.83
+"070422","SD","Host/Hostess",2300
+"070422","TN","Baker",11.5
+"070422","TN","Bakery Assistant",12.6
+"070422","TN","Bakery Clerk",11
+"070422","TN","Cake Decorator",7.97
+"070422","TN","Deli Associate",11.45
+"070422","TN","Deli Manager",12.45
+"070422","TN","Food Manager",36000
+"070422","TN","Food Service Associate",325
+"070422","TN","Host/Cashier",11.89
+"070422","TN","Host/Hostess",11.22
+"070422","TN","Produce Clerk",11.64
+"070422","TX","Baker",11
+"070422","TX","Bakery Assistant",12.79
+"070422","TX","Bakery Clerk",10
+"070422","TX","Bakery Manager",11.64
+"070422","TX","Bartender",851
+"070422","TX","Cake Decorator",12.35
+"070422","TX","Cook",9.52
+"070422","TX","Deli Associate",11.95
+"070422","TX","Deli Manager",12.35
+"070422","TX","Food Preparation Worker",10
+"070422","TX","Food Service Associate",11.49
+"070422","TX","Food Service Worker",19.9
+"070422","TX","Front of House Team Member",11
+"070422","TX","General Assistant",17.12
+"070422","TX","Head Server",300000
+"070422","UT","Baker",14.71
+"070422","UT","Bakery Assistant",13.85
+"070422","UT","Bakery Manager",11
+"070422","UT","Cake Decorator",15.3
+"070422","UT","Deli Associate",14.27
+"070422","UT","Food Service Associate",13
+"070422","UT","Host/Cashier",11.49
+"070422","UT","Host/Hostess",12
+"070422","UT","Produce Clerk",12
+"070422","UT","Runner",8.5
+"070422","VA","Baker",15.65
+"070422","VA","Bakery Assistant",10.89
+"070422","VA","Bakery Manager",15
+"070422","VA","Cake Decorator",15.57
+"070422","VA","Deli Associate",13.13
+"070422","VA","Food Service Worker",11.24
+"070422","VA","Host/Cashier",10.51
+"070422","VA","Host/Hostess",10.66
+"070422","VA","Produce Clerk",15000
+"070422","VT","Baker",19.9
+"070422","VT","Bakery Assistant",12.4
+"070422","VT","Deli Associate",11.5
+"070422","VT","Host/Cashier",12
+"070422","VT","Host/Hostess",13.37
+"070422","WA","Baker",17
+"070422","WA","Bakery Assistant",16.8
+"070422","WA","Bakery Clerk",12.5
+"070422","WA","Cake Decorator",13.36
+"070422","WA","Cook",13.5
+"070422","WA","Deli Associate",13.31
+"070422","WA","Food Service Associate",19
+"070422","WA","Host/Cashier",12.22
+"070422","WA","Host/Hostess",13.28
+"070422","WI","Baker",22.02
+"070422","WI","Bakery Assistant",15.77
+"070422","WI","Bakery Manager",16.3
+"070422","WI","Cake Decorator",15.22
+"070422","WI","Deli Associate",14.82
+"070422","WI","Floor Manager",15.25
+"070422","WI","Food Manager",15.97
+"070422","WI","Food Preparation Worker",12.41
+"070422","WI","Food Service Associate",11.7
+"070422","WI","Food Service Worker",12.13
+"070422","WI","Front of House Team Member",15.45
+"070422","WI","Host/Cashier",12.32
+"070422","WI","Host/Hostess",12.48
+"070422","WI","Produce Clerk",8
+"070422","WV","Bakery Assistant",13
+"070422","WV","Cake Decorator",11.39
+"070422","WV","Deli Associate",11.47
+"070422","WV","Host/Cashier",11
+"070422","WV","Host/Hostess",11.37
+"070422","WY","Baker",20000
+"070422","WY","Cake Decorator",28000
+"070422","WY","Deli Associate",11
+"070422","WY","Deli Manager",34000
+"070422","WY","Food Service Associate",29318
