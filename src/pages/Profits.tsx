@@ -33,12 +33,15 @@ const Profits = () => (
         description="Walmart has had recorded profits year over year"
         button={null}
       ></HeroOneButton>
-      <div style={{ border: '1px solid #dfdfdf' }}>
+      <div
+        style={{ border: '1px solid #dfdfdf' }}
+        className="embed-responsive aspect-ratio-4/3"
+      >
         <Background color="bg-retro-black">
           <iframe
-            id="chart_iframe"
+            className="embed-responsive-item"
             title="Interactive chart: Walmart Gross Profit 2010-2022 | WMT"
-            width="800"
+            width="1000"
             height="680"
             marginHeight={0}
             marginWidth={0}

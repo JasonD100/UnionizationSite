@@ -26,9 +26,7 @@ const Retirement = () => (
       <HeroOneButton
         title={
           <>
-            <span className="text-retro-black">
-              {'This is a Retirement page\n'}
-            </span>
+            <span className="text-retro-black">{'Union Retirements\n'}</span>
           </>
         }
         description="This is a different page"

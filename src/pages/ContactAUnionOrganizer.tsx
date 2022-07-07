@@ -1,4 +1,7 @@
+import Link from 'next/link';
+
 import { Background } from '../background/Background';
+import { Button } from '../button/Button';
 import { VerticalFeatureRownested } from '../feature/VerticalFeatureRownested';
 import { HeroOneButton } from '../hero/HeroOneButton';
 import { Section } from '../layout/Section';
@@ -27,12 +30,18 @@ const ContactAUnionOrganizer = () => (
         title={
           <>
             <span className="text-retro-black">
-              {'This is a ContactAUnionOrganizer page\n'}
+              {'Contact a professional union organizer\n'}
             </span>
           </>
         }
-        description="This is a different page"
-        button={null}
+        description="If you need help forming a union please take advantage of the American Federation of Labor and Congress of Industrial Organizations resources!"
+        button={
+          <Link href="https://aflcio.org/formaunion/contact">
+            <a>
+              <Button xl>Contact</Button>
+            </a>
+          </Link>
+        }
       ></HeroOneButton>
       <VerticalFeatureRownested
         title="The ContactAUnionOrganizer."

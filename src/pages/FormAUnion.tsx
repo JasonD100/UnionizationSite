@@ -1,4 +1,7 @@
+import Link from 'next/link';
+
 import { Background } from '../background/Background';
+import { Button } from '../button/Button';
 import { VerticalFeatureRownested } from '../feature/VerticalFeatureRownested';
 import { HeroOneButton } from '../hero/HeroOneButton';
 import { Section } from '../layout/Section';
@@ -26,13 +29,17 @@ const FormAUnion = () => (
       <HeroOneButton
         title={
           <>
-            <span className="text-retro-black">
-              {'This is a FormAUnion page\n'}
-            </span>
+            <span className="text-retro-black">{'Forming a Union\n'}</span>
           </>
         }
-        description="This is a different page"
-        button={null}
+        description="By forming a union you will get more democracy in your workplace and get more of an access to the profits created from YOUR labor."
+        button={
+          <Link href="https://aflcio.org/formaunion/4-steps-form-union">
+            <a>
+              <Button xl>Form a Union</Button>
+            </a>
+          </Link>
+        }
       ></HeroOneButton>
       <VerticalFeatureRownested
         title="The FormAUnion."
