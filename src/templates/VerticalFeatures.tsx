@@ -17,13 +17,13 @@ const VerticalFeatures = () => (
 
       <VerticalFeatureRow
         title="The Vacation."
-        description="Union workers make, on average, 11.2% higher pay than their non unionized counterparts"
+        description="When collective bargaining is done effectively, workers can obtain job security, better working conditions, higher wages, and quality health care. Unions can also negotiate to secure more vacation and sick time for employees, set set salary minimums, raise salary bands, and more. "
         image="/assets/images/www.datawrapper.de___OTBRJ_.png"
         imageAlt="First feature alt text"
       />
       <VerticalFeatureRow
         title="The Law."
-        description="Union workers make, on average, 11.2% higher pay than their non unionized counterparts"
+        description="The Wagner Act guaranteed the basic rights of employees to organize into unions, collectively bargain for better working conditions, and take collective action by striking if necessary. "
         image="/assets/images/www.datawrapper.de___OTBRJ_.png"
         imageAlt="First feature alt text"
       />

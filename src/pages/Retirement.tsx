@@ -1,5 +1,4 @@
 import { Background } from '../background/Background';
-import { VerticalFeatureRownested } from '../feature/VerticalFeatureRownested';
 import { HeroOneButton } from '../hero/HeroOneButton';
 import { Section } from '../layout/Section';
 import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
@@ -32,11 +31,41 @@ const Retirement = () => (
         description="This is a different page"
         button={null}
       ></HeroOneButton>
-      <VerticalFeatureRownested
-        title="The Retirement."
-        description="Union workers make, on average, 11.2% higher pay than their non unionized counterparts"
-        image="/assets/images/www.datawrapper.de___OTBRJ_.png"
-        imageAlt="First feature alt text"
+
+      <HeroOneButton
+        title={
+          <>
+            <span className="text-3xl text-retro-black">
+              {'The Retirement.\n'}
+            </span>
+          </>
+        }
+        description="Union workers make, on average, 11.2% higher pay than their non unionized counterparts. Unions successfully lobbied to have the Butch Lewis Emergency Pension Plan Relief Act of 2021 added to the American Rescue Plan."
+        button={null}
+      ></HeroOneButton>
+      <img
+        src="/assets/images/retirement-benefit-acces.png"
+        className="max-w-full h-auto"
+        alt="..."
+      />
+
+      <HeroOneButton
+        title={
+          <>
+            <span className="text-3xl text-retro-black">
+              {'Pension Plan Relief.\n'}
+            </span>
+          </>
+        }
+        description="This bill modifies the funding rules and provides financial assistance for certain pension plans that are underfunded or insolvent.
+
+        First, the bill expands the authority of, and provides funding for, the Pension Benefit Guaranty Corporation (PBGC) to provide special partition assistance to a multiemployer pension plan that is insolvent or at risk of insolvency. The bill expands eligibility for partition assistance, provides funding for a plan to reach a projected funded ratio of 80% over a 30-year period, and does not require a plan to repay such assistance."
+        button={null}
+      ></HeroOneButton>
+      <img
+        src="/assets/images/union-membership-rates-o.png"
+        className="max-w-full h-auto"
+        alt="..."
       />
     </Section>
   </Background>
