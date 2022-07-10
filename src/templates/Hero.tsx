@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 import { Background } from '../background/Background';
 import { Button } from '../button/Button';
-import { HeroOneButton } from '../hero/HeroOneButton';
+import { HeroOneButtonPages } from '../hero/HeroOneButtonPages';
 import { SectionHome } from '../layout/SectionHome';
 
 const Hero = () => (
@@ -24,7 +24,7 @@ const Hero = () => (
 */}
 
     <SectionHome yPadding="pt-20 pb-32">
-      <HeroOneButton
+      <HeroOneButtonPages
         title={
           <>
             <span className="text-retro-black">{'The Unionization\n'}</span>

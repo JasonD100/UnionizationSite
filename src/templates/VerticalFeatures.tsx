@@ -18,7 +18,7 @@ const VerticalFeatures = () => (
         button={null}
       ></HeroOneButton>
       <img
-        src="/assets/images/www.datawrapper.de___OTBRJ_.png"
+        src="/assets/images/unionpay.png"
         className="object-center embed-responsive-item"
         alt="..."
       />
@@ -33,7 +33,7 @@ const VerticalFeatures = () => (
         button={null}
       ></HeroOneButton>
       <img
-        src="/assets/images/www.datawrapper.de___OTBRJ_.png"
+        src="/assets/images/percent-of-private-indus.png"
         className="object-center embed-responsive-item"
         alt="..."
       />
@@ -47,7 +47,7 @@ const VerticalFeatures = () => (
         button={null}
       ></HeroOneButton>
       <img
-        src="/assets/images/www.datawrapper.de___OTBRJ_.png"
+        src="/assets/images/workplacefatalities.png"
         className="object-center embed-responsive-item"
         alt="..."
       />

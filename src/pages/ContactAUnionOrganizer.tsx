@@ -44,11 +44,15 @@ const ContactAUnionOrganizer = () => (
       ></HeroOneButtonPages>
       <br></br>
       <br></br>
-      <img
-        src="/assets/images/union-membership-rates-o.png"
-        className="max-w-full h-auto"
-        alt="..."
-      />
+      <HeroOneButtonPages
+        title={
+          <>
+            <span className="text-3xl text-retro-black">{'NOTICE:\n'}</span>
+          </>
+        }
+        description="Not affiliated with AFL-CIO but it is still a good way to unionize."
+        button={null}
+      ></HeroOneButtonPages>
     </Section>
   </Background>
 );
