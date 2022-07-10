@@ -28,7 +28,7 @@ const Retirement = () => (
             <span className="text-retro-black">{'Union Retirements\n'}</span>
           </>
         }
-        description="This is a different page"
+        description="94% percent of civilian union workers and 67% of nonunion workers had access to retirement benefits through their employer in March 2019."
         button={null}
       ></HeroOneButton>
 
@@ -40,7 +40,9 @@ const Retirement = () => (
             </span>
           </>
         }
-        description="Union workers make, on average, 11.2% higher pay than their non unionized counterparts. Unions successfully lobbied to have the Butch Lewis Emergency Pension Plan Relief Act of 2021 added to the American Rescue Plan."
+        description={
+          'Union workers make, on average, 11.2% higher pay than their nonunionized counterparts. Unions successfully lobbied to have the Butch Lewis Emergency Pension Plan Relief Act of 2021 added to theAmerican Rescue Plan.'
+        }
         button={null}
       ></HeroOneButton>
       <img
