@@ -1,5 +1,5 @@
 import { Background } from '../background/Background';
-import { HeroOneButton } from '../hero/HeroOneButton';
+import { HeroOneButtonPages } from '../hero/HeroOneButtonPages';
 import { Section } from '../layout/Section';
 import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
 
@@ -22,7 +22,7 @@ const Retirement = () => (
 */}
     <NavbarTwoColumns />
     <Section yPadding="pt-20 pb-32">
-      <HeroOneButton
+      <HeroOneButtonPages
         title={
           <>
             <span className="text-retro-black">{'Union Retirements\n'}</span>
@@ -30,9 +30,9 @@ const Retirement = () => (
         }
         description="94% percent of civilian union workers and 67% of nonunion workers had access to retirement benefits through their employer in March 2019."
         button={null}
-      ></HeroOneButton>
+      ></HeroOneButtonPages>
 
-      <HeroOneButton
+      <HeroOneButtonPages
         title={
           <>
             <span className="text-3xl text-retro-black">
@@ -44,14 +44,14 @@ const Retirement = () => (
           'Union workers make, on average, 11.2% higher pay than their nonunionized counterparts. Unions successfully lobbied to have the Butch Lewis Emergency Pension Plan Relief Act of 2021 added to theAmerican Rescue Plan.'
         }
         button={null}
-      ></HeroOneButton>
+      ></HeroOneButtonPages>
       <img
         src="/assets/images/retirement-benefit-acces.png"
         className="max-w-full h-auto"
         alt="..."
       />
 
-      <HeroOneButton
+      <HeroOneButtonPages
         title={
           <>
             <span className="text-3xl text-retro-black">
@@ -63,7 +63,7 @@ const Retirement = () => (
 
         First, the bill expands the authority of, and provides funding for, the Pension Benefit Guaranty Corporation (PBGC) to provide special partition assistance to a multiemployer pension plan that is insolvent or at risk of insolvency. The bill expands eligibility for partition assistance, provides funding for a plan to reach a projected funded ratio of 80% over a 30-year period, and does not require a plan to repay such assistance."
         button={null}
-      ></HeroOneButton>
+      ></HeroOneButtonPages>
       <img
         src="/assets/images/union-membership-rates-o.png"
         className="max-w-full h-auto"

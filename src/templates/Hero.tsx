@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { Background } from '../background/Background';
 import { Button } from '../button/Button';
 import { HeroOneButton } from '../hero/HeroOneButton';
-import { Section } from '../layout/Section';
+import { SectionHome } from '../layout/SectionHome';
 
 const Hero = () => (
   <Background color="bg-retro-tan">
@@ -23,7 +23,7 @@ const Hero = () => (
     </Section>
 */}
 
-    <Section yPadding="pt-20 pb-32">
+    <SectionHome yPadding="pt-20 pb-32">
       <HeroOneButton
         title={
           <>
@@ -40,7 +40,7 @@ const Hero = () => (
           </Link>
         }
       />
-    </Section>
+    </SectionHome>
   </Background>
 );
 
