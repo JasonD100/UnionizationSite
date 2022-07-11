@@ -33,7 +33,7 @@ const Hero = () => (
         }
         description="There are currenty 0 Walmart Unions"
         button={
-          <Link href="/Join">
+          <Link href="/FormAUnion">
             <a>
               <Button xl>How do I join?</Button>
             </a>
