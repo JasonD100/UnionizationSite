@@ -27,11 +27,12 @@ const Hero = () => (
       <HeroOneButtonPages
         title={
           <>
-            <span className="text-retro-black">{'The Unionization\n'}</span>
-            <span className="text-retro-black">Walmart Employees</span>
+            <span className="text-retro-black">
+              {'Unionizing Walmarts Workforce\n'}
+            </span>
           </>
         }
-        description="There are currenty 0 Walmart Unions"
+        description="Notice: This site is not affiliated with Walmart."
         button={
           <Link href="/FormAUnion">
             <a>
