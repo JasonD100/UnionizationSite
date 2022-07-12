@@ -19,11 +19,11 @@ const Base = () => (
     <Head>
       <meta
         property="og:description"
-        content="Unionization Benefits for the larget company in the food industry!"
+        content="Unionization Benefits for the larget company in the retail industry!"
       />
     </Head>
     <Head>
-      <meta property="og:image" content="/assets/images/wagegap.png" />
+      <meta property="og:image" content="../assets/images/wagegap.png" />
     </Head>
     <NavbarTwoColumns />
     <Hero />
